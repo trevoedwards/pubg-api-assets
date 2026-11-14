@@ -225,6 +225,20 @@
       }
     },
     {
+      "id": "division.bro.official.pc-2018-44",
+      "attributes": {
+        "startDate": "00-00-0000",
+        "endDate": "00-00-0000"
+      }
+    },
+    {
+      "id": "division.bro.official.pc-2018-43",
+      "attributes": {
+        "startDate": "00-00-0000",
+        "endDate": "00-00-0000"
+      }
+    },
+    {
       "id": "division.bro.official.pc-2018-42",
       "attributes": {
         "startDate": "00-00-0000",
@@ -352,6 +366,20 @@
     },
     {
       "id": "division.bro.official.pc-2018-24",
+      "attributes": {
+        "startDate": "00-00-0000",
+        "endDate": "00-00-0000"
+      }
+    },
+    {
+      "id": "division.bro.official.console-44",
+      "attributes": {
+        "startDate": "00-00-0000",
+        "endDate": "00-00-0000"
+      }
+    },
+    {
+      "id": "division.bro.official.console-43",
       "attributes": {
         "startDate": "00-00-0000",
         "endDate": "00-00-0000"
@@ -836,6 +864,20 @@
       }
     },
     {
+      "id": "division.bro.official.console-44",
+      "attributes": {
+        "startDate": "00-00-0000",
+        "endDate": "00-00-0000"
+      }
+    },
+    {
+      "id": "division.bro.official.console-43",
+      "attributes": {
+        "startDate": "00-00-0000",
+        "endDate": "00-00-0000"
+      }
+    },
+    {
       "id": "division.bro.official.console-42",
       "attributes": {
         "startDate": "00-00-0000",
@@ -1146,6 +1188,20 @@
       }
     },
     {
+      "id": "division.bro.official.console-44",
+      "attributes": {
+        "startDate": "00-00-0000",
+        "endDate": "00-00-0000"
+      }
+    },
+    {
+      "id": "division.bro.official.console-43",
+      "attributes": {
+        "startDate": "00-00-0000",
+        "endDate": "00-00-0000"
+      }
+    },
+    {
       "id": "division.bro.official.console-42",
       "attributes": {
         "startDate": "00-00-0000",
@@ -1396,6 +1452,20 @@
       "id": "division.bro.official.console-14",
       "attributes": {
         "startDate": "10-14-2021",
+        "endDate": "00-00-0000"
+      }
+    },
+    {
+      "id": "division.bro.official.console-44",
+      "attributes": {
+        "startDate": "00-00-0000",
+        "endDate": "00-00-0000"
+      }
+    },
+    {
+      "id": "division.bro.official.console-43",
+      "attributes": {
+        "startDate": "00-00-0000",
         "endDate": "00-00-0000"
       }
     },
